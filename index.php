@@ -23,7 +23,7 @@ define('APP_DEBUG', true);
 define('APP_PATH', './Application/');
 
 //添加一个后台模块                    
- define('BIND_MODULE', 'Admin');
+//define('BIND_MODULE', 'Admin');
 
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
